@@ -36,10 +36,9 @@ Pastikan sudah tersedia Node.js, Android Studio, Android SDK, dan Android Emulat
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/USERNAME/LearnReactNative.git
+  git clone https://github.com/annazwaaa/LearnReactNative.git
    ```
 
-   Ganti `USERNAME` dengan username GitHub pemilik repository.
 
 2. Masuk ke folder project:
 
